@@ -5,3 +5,5 @@ print("Hello from test branch!")
 >>>>>>> test
 print("I am learning Git!")
 print("This is my ABCD branch!")
+
+print("from my github")
